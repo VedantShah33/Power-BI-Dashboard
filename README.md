@@ -1,19 +1,34 @@
 # Power-BI-Dashboard
 
+Developed a comprehensive Power BI dashboard for Awesome Chocolates to monitor and analyze key business KPIs, improving visibility and decision-making across teams.
 
-Developed a comprehensive Power BI dashboard for “Awesome Chocolates” to monitor and analyze core business KPIs including Sales ($34M), Boxes Sold (2M), Shipments (6K), Costs ($14M), and Profit ($21M), with a dynamic Profit Margin Gauge (60.3%) for instant financial health tracking.
-
-Integrated monthly trend visualizations (Sales, Boxes, Shipments, Profit) with time-series line charts, showing Month-over-Month (MoM) changes, including negative growth flags (e.g., MoM Sales ↓10.8%) and corresponding recovery indicators (e.g., Profit ↑15.6%).
-
-Implemented an intuitive shipment analysis histogram highlighting distribution patterns and outliers (e.g., 10.2% LBS flagged in red), enhancing logistics and operations review.
-	
-Built a detailed sales team performance matrix, showcasing individual metrics for 15+ salespeople, including:
-	•	Total Sales and Profit (e.g., Kelci Walkden: $1.5M Sales, $988K Profit)
-	•	Profit % and LBS %, with visual progress bars
-	•	Visual status indicators (✔️/❌) to track efficiency benchmarks
-	•	Enabled drill-down by region and product category (e.g., Bars, Bites, Australia, Canada, etc.) using slicers and interactive navigation.
-	•	Designed the layout with user-centric interactivity and clean UI, allowing stakeholders to easily compare trends, identify underperformers, and make data-driven decisions.
-
+ Key Features:
+	•	Core KPI Tracking
+	•	Sales: $34M
+	•	Boxes Sold: 2M
+	•	Shipments: 6K
+	•	Costs: $14M
+	•	Profit: $21M
+	•	Dynamic Profit Margin Gauge showing 60.3% for real-time financial tracking.
+	•	Monthly Trend Visualizations
+	•	Implemented interactive time-series line charts to display MoM (Month-over-Month) performance changes across Sales, Boxes, 
+ 
+ Shipments, and Profit.
+	•	Included negative growth indicators (e.g., MoM Sales ↓10.8%) and recovery signals (e.g., Profit ↑15.6%).
+	•	Shipment Analysis
+	•	Created a histogram to highlight shipment distribution trends and outliers.
+	•	Flagged anomalies such as 10.2% LBS in red to support operations analysis.
+	•	Sales Team Performance Matrix
+	•	Tracked performance for 15+ sales representatives with:
+	•	💰 Total Sales & Profit (e.g., Kelci Walkden: $1.5M Sales, $988K Profit)
+	•	📈 Profit % and LBS % visualized with progress bars
+	•	✅/❌ Efficiency status icons to highlight benchmarks
+	•	Interactive Drill-Down and Navigation
+	•	Enabled region and product-level filtering (e.g., Bars, Bites, Australia, Canada, etc.) via slicers.
+	•	Streamlined layout for easy comparison and exploration.
+ 
+Outcome:
+The dashboard provided clear, actionable insights for stakeholders, improving performance tracking, regional analysis, and operational awareness with a clean, user-centric design.
 
 
 
