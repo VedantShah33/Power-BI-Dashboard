@@ -1,4 +1,4 @@
-Power BI Dashboard 
+# Power-BI-Dashboard
 
 A visually rich and interactive Power BI dashboard designed for **Awesome Chocolates**, providing real-time insights into sales, shipments, costs, and team performance across regions and product categories.
 
